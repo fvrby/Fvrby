@@ -91,9 +91,9 @@
                                                                 alt="SQL Server" height="40" width="40" /></a> <!-- SQL Server --> 
 </p>
 
+<h2 align="Center">Si eres profesional y te sientes llamado por hacer un cambio en la educación, unete a la red de Enseña Chile</h2>
+<h3 align="Center">Para que todos los jovenes de Chile reciban educación de calidad</h3>
 <p align="Center">
-  <h2 align="Center">Si eres profesional y te sientes llamado por hacer un cambio en la educación, unete a la red de Enseña Chile</h2>
-  <h3 align="Center">Para que todos los jovenes de Chile reciban educación de calidad</h3>
   <a href="http://www.ensenachile.cl/colegios" target="blank"><img align="center" src="Img/image001.gif"
                                                                  alt="Enseña Chile" width="500px" /></a> <!-- Enseña Chile --> 
 </p>
