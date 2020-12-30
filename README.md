@@ -90,6 +90,9 @@
   <a href="https://www.microsoft.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
                                                                 alt="SQL Server" height="40" width="40" /></a> <!-- SQL Server --> 
 </p>
+<p align="Center">
+<a href="http://www.ensenachile.cl/colegios" target="blank"><img align="center" src="Img/image001.gif" 
+</p>                                                                alt="Enseña Chile" height="40" width="40" /></a> <!-- SQL Server --> 
 
 <h2 align="Center">Muchas gracias por visitarme, que estés muy bien</h3>
 
