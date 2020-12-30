@@ -90,11 +90,14 @@
   <a href="https://www.microsoft.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
                                                                 alt="SQL Server" height="40" width="40" /></a> <!-- SQL Server --> 
 </p>
-<p align="Center">
-<a href="http://www.ensenachile.cl/colegios" target="blank"><img align="center" src="Img/image001.gif" 
-</p>                                                                alt="Enseña Chile" height="40" width="40" /></a> <!-- SQL Server --> 
 
-<h2 align="Center">Muchas gracias por visitarme, que estés muy bien</h3>
+<p align="Center">
+  <h2 align="Center">Si eres profesional y te sientes llamado por hacer un cambio en la educación, unete a la red de Enseña Chile</h2>
+  <h3 align="Center">Para que todos los jovenes de Chile reciban educación de calidad</h3>
+  <a href="http://www.ensenachile.cl/colegios" target="blank"><img align="center" src="Img/image001.gif"
+                                                                 alt="Enseña Chile" width="500px" /></a> <!-- Enseña Chile --> 
+</p>
+<h2 align="Center">Muchas gracias por visitarme, que estés muy bien</h2>
 
 
 <!--
