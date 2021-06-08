@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Un gusto! Soy Bayron Loaiza ^^ </h1>
-<h3 align="center">Joven Desarrollador y futuro Profesor </h3>
+<h3 align="center">Joven Desarrollador y Profesor de Enseñanza Media </h3>
 
 📫 Te puedes comunicar conmigo en:
 - 📫 **bayron_fabian@hotmail.com**
