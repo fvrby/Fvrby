@@ -5,19 +5,6 @@
 - 📫 **bayron_fabian@hotmail.com**
 - 📫 **Rapzotheru@gmail.com**
 
-<h3 align="left">También puedes encontrarme en:</h3>
-<p align="left">
-  <a href="https://www.facebook.com/fvrby/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/facebook.svg" 
-                                                                alt="Facebook Bayron" height="40" width="40" /></a> <!-- Facebook -->
-  <a href="https://www.instagram.com/fvrby.s/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/instagram.svg" 
-                                                                alt="Instagram Bayron" height="40" width="40" /></a> <!-- Instagram -->                              
-  <a href="https://twitter.com/fvrbyloaiza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" 
-                                                                alt="Twitter Bayron" height="40" width="40" /></a> <!-- Twitter -->
-  <a href="https://www.linkedin.com/in/bayron-loaiza-aviles-857253b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/linkedin.svg" 
-                                                                alt="Linkedin Bayron" height="40" width="40" /></a> <!-- Linkedin -->
-<!--  <a href="https://recallsthelove.tumblr.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/tumblr.svg" 
-                                                                alt="Tumblr Bayron" height="40" width="40" /></a> <!-- Tumblr -->
-</p>
 
 <h3 align="left">Trabajo y he trabajado con:</h3>
 <p align="left">
