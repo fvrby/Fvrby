@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Un gusto! Soy Bayron Loaiza ^^ </h1>
+<h1 align="center">Hola 👋, Un gusto! ^^ </h1>
 <h3 align="center">Joven Desarrollador y Profesor de Enseñanza Media </h3>
 
 📫 Te puedes comunicar conmigo en:
